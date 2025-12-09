@@ -92,9 +92,6 @@ The notebook includes:
 - Test case results
 - Final CSV preview
 - Commentary before every step
-
-This satisfies the course requirement of having a write-up + code + outputs in one place.
-
 ---
 
 ## 🛠️ Dependencies
@@ -106,9 +103,6 @@ BeautifulSoup4
 Flask (optional, not used in minimal config)
 
 Install via: pip install -r requirements.txt
-
-(If you want, I can create the requirements.txt file too.)
-
 ---
 
 ## 🔗 Source Code Access
